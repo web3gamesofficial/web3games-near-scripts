@@ -1,0 +1,8 @@
+### Script template
+.idea/
+
+.vscode
+.DS_Store
+
+node_modules/
+yarn.lock/
